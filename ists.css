@@ -1,0 +1,125 @@
+.main{
+    order: solid 2px darkviolet;
+    box-shadow: 5px 5px 25px darkviolet;
+    border: solid 2px;
+}
+.box1{
+
+}
+.heading{
+    display: flex;
+    margin-left: 75px;
+    
+}
+.heading img{
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+}
+.heading h2{
+    font-family: italic;
+    color: rgb(158, 26, 158);
+    word-spacing: 10px;
+}
+.address{
+    text-align: center;
+    margin-top: -35px;
+    word-spacing: 5px;
+    color: rebeccapurple;
+    font-weight: 800;
+    font-style: italic;
+
+}
+.phone{
+    text-align: center;
+    color: blueviolet;
+    word-spacing: 5px;
+    font-weight: 800;
+    margin-top: -5px;
+}
+.back{
+    width: 80%;
+    height: 55%;
+    position: center;
+    margin-left: 140px;
+}
+.welcome{
+    color: red;
+    text-align: center;
+
+}
+.marque img{
+    height: 50%;
+    width: 30%;
+    padding: 10px;
+    border:solid 2px;
+    margin-top:10px;
+}
+.line{
+    border: solid 1px blueviolet
+}
+.box2{
+    height: 120%;
+    width: 33%;
+    background-color:wheat;
+    margin-left: 30px;
+    border-radius: 10px;
+
+}
+.box_a{
+    height: 80%;
+    width: 80%;
+    background-color: purple;
+    margin-left: 30px;
+    margin-top: 20px;
+    position: relative;
+    top: 45px;
+    border-radius: 20px;
+}
+.box_a h4{
+    color: white;
+    padding: 60px;
+    padding-left: 145px;
+    font-weight: 900;
+    font-size: medium;
+}
+.user{
+    background-color: white;
+    height: 150px;
+    margin-top:-63px;
+    border-radius: 5px 5px 20px;
+    width: 319px;
+    margin-left: 5px
+}
+
+.user label{
+    margin-left: 15px;
+    color: red;
+    font-weight: 900;
+}
+.user input{
+    margin-left: 15px;
+    margin-top: 10px;
+    height: 25px;
+    width:185px;
+}
+.password{
+
+}
+.login{
+    margin-top: 30px;
+    margin-left: 220px;
+    padding: 5px;
+    width: 84px;
+    border-radius: 100px;
+    color: black;
+    text-transform: uppercase;
+    background-color: rgb(215, 99, 215);;
+
+}
+.box3{
+
+}
+.box4{
+
+}
